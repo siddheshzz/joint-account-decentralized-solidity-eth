@@ -1,7 +1,11 @@
-# Sample Hardhat Project
+# Simple Bank account(Joint account)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Project depicts a Simple Bank account particularly Joint account withdrawls and deposit.
+Users can create account with multiple addresses and multiple owner(max 4 owners for a account).
+Each owner has to approve a withdrawl request before actual transfer takes place.
 
+
+This project demonstrates a basic Hardhat use case.
 Try running some of the following tasks:
 
 ```shell
